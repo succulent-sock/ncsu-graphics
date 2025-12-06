@@ -1,1 +1,3 @@
-# ncsu-graphics-battlezone
+##################
+Battlezone program
+##################
